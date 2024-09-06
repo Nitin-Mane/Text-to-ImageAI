@@ -38,3 +38,20 @@ cd Text-to-ImageAI
 
 # Install dependencies
 pip install -r requirements.txt
+
+## Usage
+
+To generate an image from text:
+
+```bash
+python generate.py --text "A dog running in the park"
+```
+
+## Results
+
+The generated images will be saved in the `output` folder. Examples of generated images from sample texts can be found in the `examples` folder.
+
+## Contribution Guidelines
+
+Feel free to raise issues, propose changes, or submit pull requests to improve the project. We welcome all contributions.
+
