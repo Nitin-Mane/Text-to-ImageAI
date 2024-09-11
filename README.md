@@ -11,7 +11,7 @@ Text-to-ImageAI is a deep learning-based project focused on generating images fr
 ## Team Members
 
 - Nitin Mane 
-- Student 2
+- Himanshu
 - Student 3
 - Student 4
 - Student 5
